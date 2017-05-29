@@ -1,0 +1,5 @@
+per salvare :w per uscire :q
+per spostarsi senza usare l'insert (i) si usano h j k l
+con i si entra nella modalità inserisci 
+
+
